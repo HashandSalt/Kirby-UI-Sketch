@@ -1,0 +1,87 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "ACBF06E1-14DD-46FE-A307-B2F0EBEA1A52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46126427-091D-4A8F-A6B1-4398FE0FB9F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A67E8747-6C4A-4C53-8750-32B8DD64B1AC",
+    "height": 12.99648120300752,
+    "width": 13.3187979966611,
+    "x": 94,
+    "y": 9
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "983B8193-4CAB-4EA3-9D2C-7DC214B1B314"
+    },
+    {
+      "class": "shapePath",
+      "id": "5EA9FB4C-12FC-42CD-9982-D4477A223A14"
+    },
+    {
+      "class": "shapePath",
+      "id": "4F37E3E5-1EDD-4C35-ADDA-CAB071C8DD78"
+    }
+  ],
+  "name": "link",
+  "nameIsFixed": true,
+  "originalObjectID": "9DA5F0BD-E1AF-421A-8404-1C5ACF6514A7",
+  "resizingConstraint": 33,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7565448D-4630-4064-AF94-3D6EA4756A6D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1,
+      "type": 0
+    },
+    "do_objectID": "7E9C641F-0F63-4C68-951D-3D5BF680AB25",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

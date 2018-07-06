@@ -1,0 +1,77 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "A720144B-BEB0-41C4-9336-CE492A6BA2FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BAECE01D-C4EE-4759-A499-83816BB1257F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "03FD4C73-2E34-482B-A3C9-0A28F9F4F68E",
+    "height": 14,
+    "width": 14,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B3F759A8-CEEB-4143-8E75-D2B42818CB88"
+    },
+    {
+      "class": "shapePath",
+      "id": "7A936B0E-7EAE-423A-BA51-CEBBC2E56568"
+    },
+    {
+      "class": "shapePath",
+      "id": "9D105697-1587-4CE9-905B-D995667F86BB"
+    }
+  ],
+  "name": "play",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "82A3215F-1DC8-4A22-A250-3CF6980E37AD",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}
